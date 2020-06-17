@@ -25,6 +25,6 @@ String text;
 	this.text = text;
 	System.out.print("\nNachricht " + nr + " erfolgreich eingegeben.\n");
 }
-	
+	//test
 }
 
